@@ -1,4 +1,5 @@
-# AngularTourOfHeroes
+# angular-tour-of-heroes
+Just another implementation of the tutorial to learn Angular basics
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.3.
 
